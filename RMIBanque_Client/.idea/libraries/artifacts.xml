@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../TP5.2/RMIBanque_Server/.idea/artifacts" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../TP5.2/RMIBanque_Server/.idea/artifacts" recursive="false" />
+  </library>
+</component>
